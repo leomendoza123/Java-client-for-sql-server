@@ -7,7 +7,7 @@ package java.client.pkgfor.sql.server;
 
 /**
  *
- * @author Leo
+ * @author LeoHOLI
  */
 public class JavaClientForSqlServer {
 
